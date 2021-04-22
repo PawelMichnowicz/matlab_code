@@ -1,9 +1,9 @@
 # matlab_code
 
 The algorithm analyses porous structure of a solid oxide fuel cell anode by using FIB-SEM images of their microstructure.
-Sets of these images represent the whole microstructure and each color represent particular phase of microstructure:
-Black - pore
-Grey - YSZ (Yttria-stabilized zirconia)
+Sets of these images represent the whole microstructure and each color represent particular phase of microstructure: <br />
+Black - pore <br />
+Grey - YSZ (Yttria-stabilized zirconia) <br />
 White - Ni (Nickel)
 
 ![alt text](https://i.ibb.co/Z6cKF7N/1.png)
