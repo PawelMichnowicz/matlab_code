@@ -11,6 +11,11 @@ White - Ni (Nickel)
 Each color zone (phase) in microstructure form something like clusters
 and these clusters are either isolated from externals surfaces of microstructure or extend through the entire structure (percolated phase)
 
-Algorithm marks teh respective phase as isolated or percolated, and calculate percentage of each one.
+Algorithm marks respective clusters as isolated or percolated, and calculate percentage of each one.
 
 ![alt text](https://i.ibb.co/VpDw9pC/2.png)
+
+
+
+
+* Visualization of 3d models was created on an external program
