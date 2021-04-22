@@ -18,4 +18,5 @@ Algorithm marks respective clusters as isolated or percolated, and calculate per
 
 
 
-* Visualization of 3d models was created on an external program
+
+Visualization of 3d models was created on an external program.
