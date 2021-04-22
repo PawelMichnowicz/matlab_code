@@ -6,7 +6,7 @@ Black - pore
 Grey - YSZ (Yttria-stabilized zirconia)
 White - Ni (Nickel)
 
-![alt text](https://i.ibb.co/KhyTs96/1.png)
+![alt text](https://i.ibb.co/Z6cKF7N/1.png)
 
 Each color zone (phase) in microstructure form something like clusters
 and these clusters are either isolated from externals surfaces of microstructure or extend through the entire structure (percolated phase)
